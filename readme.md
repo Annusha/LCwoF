@@ -37,7 +37,7 @@ pytorch 1.6
 
 #### cite
 
-@InProceedings{kukleva_lcwof,  
+@inproceedings{kukleva2021lcwof,  
     author    = {Kukleva, Anna and Kuehne, Hilde and Schiele, Bernt},  
     title     = {Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration Without Forgetting},  
     booktitle = {ICCV},  
