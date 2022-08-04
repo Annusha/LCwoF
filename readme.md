@@ -8,7 +8,7 @@ Official Implementation, ICCV21
 
 ##### Data
 [miniImageNet](https://drive.google.com/file/d/1CZPTOfQMp5ANF-BIuK9O9NdcPlT5XMHE/view?usp=sharing)  
-here you can find all the splits and files for episodic training on mini-ImageNet
+here you can find all the splits and files for episodic training on mini-ImageNet (2.1 Gb)  
 
 [pretrained_model](https://drive.google.com/file/d/165yPQtX1pWPZR_rBdPih2Rl1Xq6G7ln3/view?usp=sharing) on base 64 classes  
 there is also script to train the model from scratch  
