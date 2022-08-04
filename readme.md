@@ -1,4 +1,4 @@
-##Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting
+## Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting
 Official Implementation, ICCV21
 
 [arxiv](https://arxiv.org/abs/2108.08165)  
@@ -6,7 +6,7 @@ Official Implementation, ICCV21
 [poster](https://drive.google.com/file/d/1AaVD1x22c3wi0tNjmwtP1MLBpy8PnNin/view?usp=sharing)  |  [poster_slides](https://drive.google.com/file/d/18rVouHgWbUT5voy-vN4MdC_sRuMCzDTZ/view?usp=sharing) | [5_min_video](https://drive.google.com/file/d/1oFjWyuCM60XHfPbAKNLU7JwzBcSNHOVO/view?usp=sharing)
 
 
-#####Data
+##### Data
 [miniImageNet](https://drive.google.com/file/d/1CZPTOfQMp5ANF-BIuK9O9NdcPlT5XMHE/view?usp=sharing)  
 here you can find all the splits and files for episodic training on mini-ImageNet
 
